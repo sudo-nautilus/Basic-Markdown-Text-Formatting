@@ -1,2 +1,4 @@
 # Basic-Markdown-Text-Formatting
-This is a test
+*Italic*
+**Bold**
+***Bold Italic***
